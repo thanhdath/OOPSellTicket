@@ -1,0 +1,79 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:4:1-62
+	android:name
+		ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:4:18-60
+application
+ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Minh Tam\.android\build-cache\b3db3dcbd694db637c4cb6bdcc3ef90640814bca\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Minh Tam\.android\build-cache\2c76c33e779436b56c66efb96c6dafbc6bee2941\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Minh Tam\.android\build-cache\3b592f8de252d40597b2f3dea18e115bb3d57e7f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Minh Tam\.android\build-cache\940f9264ac35ae846e5992b124a611a06a9557e6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Minh Tam\.android\build-cache\2ffef9d7e699131d750631289b4ffcc1b39cc70a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Minh Tam\.android\build-cache\87eb8f00ca008ec9d3a5a3e5e6e375e10ab018cd\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Minh Tam\.android\build-cache\64ed4b36e9a099ca54ecb5a256a9e6892f81e7e1\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Minh Tam\.android\build-cache\0eb3c3968c6f973f182c1bcd556af42325e7c883\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Minh Tam\.android\build-cache\620fad4116b29768d701f82fc4d675ba6d9e6688\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Minh Tam\.android\build-cache\b2a6257d86bd572cec4df3300a8a55c243162c67\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.minhtam.sellticketoop.MainActivity
+ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.example.minhtam.sellticketoop.Login
+ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:18:9-52
+	android:name
+		ADDED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml:18:19-40
+uses-sdk
+INJECTED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Minh Tam\.android\build-cache\b3db3dcbd694db637c4cb6bdcc3ef90640814bca\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Minh Tam\.android\build-cache\2c76c33e779436b56c66efb96c6dafbc6bee2941\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Minh Tam\.android\build-cache\3b592f8de252d40597b2f3dea18e115bb3d57e7f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Minh Tam\.android\build-cache\940f9264ac35ae846e5992b124a611a06a9557e6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Minh Tam\.android\build-cache\2ffef9d7e699131d750631289b4ffcc1b39cc70a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Minh Tam\.android\build-cache\87eb8f00ca008ec9d3a5a3e5e6e375e10ab018cd\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Minh Tam\.android\build-cache\64ed4b36e9a099ca54ecb5a256a9e6892f81e7e1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Minh Tam\.android\build-cache\0eb3c3968c6f973f182c1bcd556af42325e7c883\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Minh Tam\.android\build-cache\620fad4116b29768d701f82fc4d675ba6d9e6688\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Minh Tam\.android\build-cache\b2a6257d86bd572cec4df3300a8a55c243162c67\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Minh Tam\.android\build-cache\b3db3dcbd694db637c4cb6bdcc3ef90640814bca\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\google_driver\Code\android\SellTicketOOP\app\src\main\AndroidManifest.xml
