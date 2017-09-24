@@ -20,12 +20,6 @@
         android:layout_weight="1"
         android:text="Dang nhap"
         android:id="@+id/btnLogin"/>
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:id="@+id/getHtml"
-        android:text="Get HTML"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="0dp"

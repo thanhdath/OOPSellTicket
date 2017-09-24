@@ -13,7 +13,6 @@ import okhttp3.OkHttpClient;
 public class MainActivity extends AppCompatActivity {
     Button login,singIn;
     TextView txt;
-    String cookiePub = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,19 +24,9 @@ public class MainActivity extends AppCompatActivity {
         login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this,Login.class);
+                Intent intent = new Intent(MainActivity.this, Login.class);
                 startActivity(intent);
 
-            }
-        });
-
-        singIn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                //lay cookie tri-uyen tu man hinh login
-                Bundle extras = getIntent().getExtras();
-                cookiePub = extras.getString("cookie");
-                txt.setText(cookiePub);
             }
         });
     }

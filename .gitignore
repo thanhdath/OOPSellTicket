@@ -1,0 +1,5 @@
+/build/android-profile/*
+/build/intermediates/*
+app/build/*
+.gradle/*
+.idea/*
